@@ -1,6 +1,6 @@
 #thumbnail-video {
-  width: 48%;
-  max-width: 900px;
+  width: 100%;
+  max-width: 1080px;
   float: right;
 }
 #front-text {
